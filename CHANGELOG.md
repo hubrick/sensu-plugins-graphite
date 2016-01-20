@@ -4,7 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
-- nothing
+### Changed
+- Use the whole client name as hostname for graphite measurement
 
 ## [0.0.7] - 2015-09-29
 ### Added
